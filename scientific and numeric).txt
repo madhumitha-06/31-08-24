@@ -1,0 +1,17 @@
+scientific and numeric)
+AI it has two types ML and DL
+In ML it takes string,integer,float,etc..it convert 0 and 1 easily  in str it converted using NPL
+
+In DL it takes image,video,audio ,signal it convert  0 and 1 with (layers) with the process name Grid
+In this grid process it marks the the image is present then (1) otherwise (0) in graph
+
+From input to output =encode and encryption 
+From output to input=decode and decryption
+ (Audio and video)
+In audio call it takes only audio 
+but in vc it takes both frequency ,sound, visual 
+(3D cad)
+Whereas temple run is a 2D game it was move in single place
+This 3D cad are mostly used by the civil engineers for constrction
+(Enterprise application)
+It is used for entrepreneur for developing the product
